@@ -1,0 +1,7 @@
+# baris pertama = HEADER,
+# nama kolom yang MENJELASKAN
+# isi tiap kolom di bawahnya
+nama,minggu,nilai,catatan
+Budi Santoso,1,85,Paham konsep dasar
+Siti Aminah,1,90,Sangat aktif bertanya
+Rudi Hartono,1,70,Perlu latihan lebih
