@@ -1,0 +1,19 @@
+{
+  "kelas": "Pengantar Git & GitHub",
+  "siswa": [
+    {
+      "nama": "Budi Santoso",
+      "tugas": [
+        { "minggu": 1, "nilai": 85 },
+        { "minggu": 2, "nilai": 88 }
+      ]
+    },
+    {
+      "nama": "Siti Aminah",
+      "tugas": [
+        { "minggu": 1, "nilai": 90 },
+        { "minggu": 2, "nilai": 92 }
+      ]
+    }
+  ]
+}
