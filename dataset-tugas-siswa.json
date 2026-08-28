@@ -5,14 +5,15 @@
       "nama": "Budi Santoso",
       "tugas": [
         { "minggu": 1, "nilai": 85 },
-        { "minggu": 2, "nilai": 88 }
+        { "minggu": 2, "nilai": 88 },
+        { "minggu": 3, "nilai": 91 }
       ]
     },
     {
       "nama": "Siti Aminah",
       "tugas": [
         { "minggu": 1, "nilai": 90 },
-        { "minggu": 2, "nilai": 92 }
+        { "minggu": 2, "nilai": 95 }
       ]
     }
   ]
